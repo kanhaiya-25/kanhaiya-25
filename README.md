@@ -34,16 +34,16 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUserName&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kanhaiya-25&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-25&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=kanhaiya-25&theme=radical)  
 
 ---
 
 ## 🚀 Featured Projects
-- 📂 [Project 1](https://github.com/YourUserName/Project1) – Short description of what it does  
-- 📂 [Project 2](https://github.com/YourUserName/Project2) – Short description of what it does  
-- 📂 [Project 3](https://github.com/YourUserName/Project3) – Short description of what it does  
+- 📂 [Project 1](https://github.com/kanhaiya-25/Project1) – Short description of what it does  
+- 📂 [Project 2](https://github.com/kanhaiya-25/Project2) – Short description of what it does  
+- 📂 [Project 3](https://github.com/kanhaiya-25/Project3) – Short description of what it does  
 
 ---
 
@@ -52,4 +52,4 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanhaiyakumar5508@gmail.com)  
 
 ---
-⭐️ From [YourUserName](https://github.com/YourUserName)
+⭐️ From [kanhaiya-25](https://github.com/kanhaiya-25)
