@@ -41,9 +41,8 @@
 ---
 
 ## 🚀 Featured Projects
-- 📂 [Project 1](https://github.com/kanhaiya-25/Project1) – Short description of what it does  
-- 📂 [Project 2](https://github.com/kanhaiya-25/Project2) – Short description of what it does  
-- 📂 [Project 3](https://github.com/kanhaiya-25/Project3) – Short description of what it does  
+- 📂 [Project 1](https://github.com/kanhaiya-25/Lost-and-Found) – A web-based portal to report, search, and claim lost & found items on campus.  
+
 
 ---
 
