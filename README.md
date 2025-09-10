@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kanhaiya
 
 🎓 CSE Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner  
 
