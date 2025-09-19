@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 - 📂 [Project 1](https://github.com/kanhaiya-25/Lost-and-Found) – A web-based portal to report, search, and claim lost & found items on campus.
-- 📂 [Project 2]() – ()
+- 📂 [Project 2]() – 
 
 ---
 
