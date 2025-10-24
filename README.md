@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanhaiya Kumar
+# 👋 Hi, I'm Kanhaiya
 
 🎓 CSE Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner  
 
