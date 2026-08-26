@@ -41,8 +41,8 @@
 ---
 
 ## 🚀 Featured Projects
-- 📂 [Project 1](https://github.com/kanhaiya-25/Lost-and-Found) – A web-based portal to report, search, and claim lost & found items on campus.
-- 📂 [Project 2]() – 
+- 📂 [Project 1](https://github.com/kanhaiya-25/Search_Locally) – An offline-first document search engine that lets users seamlessly search across their local PDF, PPT, and image documents.
+- 📂 [Project 2](https://github.com/kanhaiya-25/ticket_booking_system) – A full-stack ticket booking system for browsing events, selecting seats, and managing ticket bookings.
 
 ---
 
