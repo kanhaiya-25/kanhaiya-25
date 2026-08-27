@@ -34,9 +34,14 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kanhaiya-25&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-25&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kanhaiya-25&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanhaiya-25&show_icons=true&theme=radical&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-25&layout=compact&theme=radical&cache_seconds=86400" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kanhaiya-25&theme=radical" height="180" />
+</p> 
 
 ---
 
