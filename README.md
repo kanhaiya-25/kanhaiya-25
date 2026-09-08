@@ -8,7 +8,7 @@
 - 🌱 Currently learning and exploring **Web Development, Data Structures & Algorithms**  
 - 🔭 Exploring **Open Source Contributions**  
 - 🎯 Goal: To become proficient in **Full Stack Development & Competitive Programming**  
-- ⚡ Fun fact: I love solving coding challenges and building mini-projects!  
+- ⚡ Fun fact: I love playing chess and building mini-projects!  
 
 ---
 
